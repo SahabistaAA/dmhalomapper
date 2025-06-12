@@ -42,6 +42,7 @@ class PathManager:
         self.saved_path = os.path.join(self.running_path, 'saved')
         self.log_path = os.path.join(self.running_path, 'log')
         self.model_path = os.path.join(self.saved_path, 'model')
+        self.visualization_path = os.path.join(self.model_path, 'visualization')
         self.plot_path = os.path.join(self.saved_path, 'plots')
         self.distribution_plot_path = os.path.join(self.plot_path, 'distribution')
         self.correlation_plot_path = os.path.join(self.plot_path, 'correlation')
@@ -64,6 +65,7 @@ class PathManager:
             self.saved_path,  # Replaced output_path with saved_path
             self.log_path,
             self.model_path,
+            self.visualization_path,
             self.plot_path,
             self.distribution_plot_path,
             self.correlation_plot_path,

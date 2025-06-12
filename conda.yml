@@ -1,0 +1,24 @@
+name: dmhalomapper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - seaborn
+  - plotly
+  - imageio
+  - pillow
+  - numba
+  - astropy
+  - optuna
+  - tqdm
+  - pytorch
+  - pip
+  - pip:
+      - torch
+      - torchinfo

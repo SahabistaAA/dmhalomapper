@@ -151,7 +151,7 @@ If you use `dmhalomapper` in your research, please cite:
 ```bibtex
 @thesis{armantara2024dmhalomapper,
   author = {Sahabista Arkitanego Armantara},
-  title = {Rekonstruksi Distribusi \textit{Dark Matter Halo} Menggunakan Metode Recurrent Neural Network (RNN) dengan Data Simulasi EAGLE},
+  title = {Rekonstruksi Distribusi _Dark Matter Halo_ Menggunakan Metode Recurrent Neural Network (RNN) dengan Data Simulasi EAGLE},
   school = {Institut Teknologi Bandung},
   year = {2024},
   type = {Undergraduate Thesis}

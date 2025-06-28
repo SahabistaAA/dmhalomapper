@@ -4,7 +4,7 @@
 _Transform Data, Accelerate Discovery, Unleash Innovation_
 
 ![Last Commit](https://img.shields.io/badge/last%20commit-today-brightgreen)
-![Jupyter Notebooks](https://img.shields.io/badge/Jupyter--notebooks-54.0%25-orange)
+![Python](https://img.shields.io/badge/Python-80.0%25-orange)
 ![Languages](https://img.shields.io/badge/languages-2-blue)
 
 > Built with the tools and technologies:  
